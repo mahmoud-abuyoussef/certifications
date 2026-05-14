@@ -77,10 +77,10 @@
     ![Simplifying Web Development with Accessibility Best Practices by PMI](https://github.com/mahmoud-abuyoussef/certifications/blob/main/02-linkedin-learning/11-simplifying-web-development-with-accessibility-best-practices-by-pmi/simplifying-web-development-with-accessibility-best-practices-by-pmi.png)
 
 21. React.js Essential Training [Show credential](https://www.linkedin.com/learning/certificates/4eed2b6dc241ea9ceeffea5849a95645e497a2de3ec8a146a5f9e31c416b7d04)
-    ![React.js Essential Training](https://github.com/mahmoud-abuyoussef/certifications/blob/main/02-linkedin-learning/12-react.js-essential-training/react.js-essential-training.png)
+    ![React.js Essential Training](https://github.com/mahmoud-abuyoussef/certifications/blob/main/02-linkedin-learning/12-reactjs-essential-training/react.js-essential-training.png)
 
 22. React.js: Building an Interface [Show credential](https://www.linkedin.com/learning/certificates/e810b715f7127ca17061e9ccabab83a40ab3772e2bf0624af67da36510e508d9)
-    ![React.js: Building an Interface](https://github.com/mahmoud-abuyoussef/certifications/blob/main/02-linkedin-learning/13-react.js-building-an-interface/react.js-building-an-interface.png)
+    ![React.js: Building an Interface](https://github.com/mahmoud-abuyoussef/certifications/blob/main/02-linkedin-learning/13-reactjs-building-an-interface/react.js-building-an-interface.png)
 
 23. JavaScript: Modern Browser APIs [Show credential](https://www.linkedin.com/learning/certificates/20c2bdbc4afbcbd53c268e1d8b66ddfecdc916f1a3211a7c653b4ee08bd35872)
     ![JavaScript: Modern Browser APIs](https://github.com/mahmoud-abuyoussef/certifications/blob/main/02-linkedin-learning/14-javascript-modern-browser-apis/javascript-modern-browser-apis.png)
