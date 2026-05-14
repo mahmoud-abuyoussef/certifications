@@ -1,4 +1,4 @@
-﻿# ðŸŽ“ My Educational Certifications
+﻿# My Educational Certifications
 
 ## Manara
 
